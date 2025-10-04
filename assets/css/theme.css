@@ -1,0 +1,33 @@
+body {
+  font-family: system-ui, Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #f0f4f8;
+  color: #333;
+}
+
+header {
+  background: #0366d6;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+main {
+  margin: 2rem auto;
+  max-width: 800px;
+  line-height: 1.6;
+}
+
+footer {
+  background: #eee;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  margin-top: 2rem;
+}
